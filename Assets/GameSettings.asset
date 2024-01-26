@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8abcc030ac61cbf4dab796a4c92d3379, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: 
+  playerPrefab: {fileID: 5523261435857638382, guid: 8aa5a1ba6d8c3394488ecf080c7ab847, type: 3}
+  maxCharacters: 13
+  dailyDrop: -10
+  dateMult: 1.5
+  textDetect: Text
+  dayDetect: Day
+  gameDetect: Game
+  Days:
+  - Day1Text
+  - Day2Text
+  - Day3Text
+  - Day4Text
+  - Day5Text
+  - Day6Text
+  - Day7
+  breakEnd: Break
+  petraBreak: 0
+  peterBreak: 1
+  petraLove: 2
+  peterLove: 3
+  friends: 4
+  maxVol: 100
+  minVol: 0
+  maxMult: 10
+  minMult: 1

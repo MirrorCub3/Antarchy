@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7c48b59a0d47744d87c07fcf978e12d, type: 3}
+  m_Name: 3.1.2.2
+  m_EditorClassIdentifier: 
+  speaker: 3
+  sentences:
+  - ...
+  - '*sigh*'
+  - '"What would you two do without me?"'
+  - '"You idiots better have the time of your lives."'
+  spriteList:
+  - {fileID: 21300000, guid: 0c6ea7d5a6541b1488cf78d5e9d01347, type: 3}
+  - {fileID: 21300000, guid: 79e8d450883241344be75a090035a0b1, type: 3}
+  - {fileID: 21300000, guid: e16f9d323fea18941849655d71902a3e, type: 3}
+  - {fileID: 21300000, guid: c5706c03e0bac12489c59d2cd8988b58, type: 3}
+  placements:
+  - {fileID: 11400000, guid: 97c6d635a5f33664b84ee76f2a4f1a2e, type: 2}
+  - {fileID: 11400000, guid: 97c6d635a5f33664b84ee76f2a4f1a2e, type: 2}
+  - {fileID: 11400000, guid: 97c6d635a5f33664b84ee76f2a4f1a2e, type: 2}
+  - {fileID: 11400000, guid: 97c6d635a5f33664b84ee76f2a4f1a2e, type: 2}
+  postTextPos: {fileID: 11400000, guid: 0ce61da2061ec504dbf729427d0558ae, type: 2}
+  postTextSprite: {fileID: 21300000, guid: e16f9d323fea18941849655d71902a3e, type: 3}

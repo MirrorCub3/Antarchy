@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7c48b59a0d47744d87c07fcf978e12d, type: 3}
+  m_Name: 1.2.3.2
+  m_EditorClassIdentifier: 
+  speaker: 2
+  sentences:
+  - "\"Yeah! This one\u2019s of my dog\u2019s butt, Benny.\""
+  - '"This one is my favorite flower, the Cecilia, and I also got a smiley face to
+    remind myself and others to stay positive even when things get bad!"'
+  - '"Everything will turn out okay because everything happens for a reason."'
+  spriteList:
+  - {fileID: 21300000, guid: c255ff0d5df1aab4bbadd41dcabf0baa, type: 3}
+  - {fileID: 21300000, guid: 14aa49f26fdadc64895aa1b7db497b69, type: 3}
+  - {fileID: 21300000, guid: c255ff0d5df1aab4bbadd41dcabf0baa, type: 3}
+  placements:
+  - {fileID: 11400000, guid: 2bf4b658f602e7544b729b1bdf33416f, type: 2}
+  - {fileID: 11400000, guid: 2bf4b658f602e7544b729b1bdf33416f, type: 2}
+  - {fileID: 11400000, guid: 2bf4b658f602e7544b729b1bdf33416f, type: 2}
+  postTextPos: {fileID: 11400000, guid: 2bf4b658f602e7544b729b1bdf33416f, type: 2}
+  postTextSprite: {fileID: 21300000, guid: 635e4206766c1664d8a64c87bbcf987b, type: 3}

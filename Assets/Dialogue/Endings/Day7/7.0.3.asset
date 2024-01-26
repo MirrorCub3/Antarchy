@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7c48b59a0d47744d87c07fcf978e12d, type: 3}
+  m_Name: 7.0.3
+  m_EditorClassIdentifier: 
+  speaker: 2
+  sentences:
+  - "\u201CYou ready to perform the song we wrote tonight @?\""
+  - "\"I mean, you\u2019re not singing the words you wrote, but get ready to go crazy
+    on those drums!\u201D"
+  spriteList:
+  - {fileID: 21300000, guid: 14aa49f26fdadc64895aa1b7db497b69, type: 3}
+  - {fileID: 21300000, guid: c255ff0d5df1aab4bbadd41dcabf0baa, type: 3}
+  placements:
+  - {fileID: 11400000, guid: 2bf4b658f602e7544b729b1bdf33416f, type: 2}
+  - {fileID: 11400000, guid: 2bf4b658f602e7544b729b1bdf33416f, type: 2}
+  postTextPos: {fileID: 11400000, guid: 989c2e2ad13f8a546a677e0ab0c893db, type: 2}
+  postTextSprite: {fileID: 21300000, guid: f7763247afdd6b143ae1cf210e297799, type: 3}

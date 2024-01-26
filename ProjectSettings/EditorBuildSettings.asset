@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: fb92970c962bdbe45a74bd4ebd3e2a3f
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 43a450700db62eb4391b975bffa3d1ec
+  - enabled: 1
+    path: Assets/Scenes/Day1Text.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Day2Text.unity
+    guid: 47a9fa2c10c926540ad1351795ce4e56
+  - enabled: 1
+    path: Assets/Scenes/Day3Text.unity
+    guid: d21f621aced0d434d9e67ddada451afa
+  - enabled: 1
+    path: Assets/Scenes/Day4Text.unity
+    guid: 9de5b48b63891a548ba566f17a5dc31b
+  - enabled: 1
+    path: Assets/Scenes/Day5Text.unity
+    guid: adf9999a171961944a9f012f50d66448
+  - enabled: 1
+    path: Assets/Scenes/Day6Text.unity
+    guid: 885da4847cbd8dd4b92558a459ec9b80
+  - enabled: 1
+    path: Assets/Scenes/Day7.unity
+    guid: 1525d57ba0dd1114d955267395e18b80
+  - enabled: 1
+    path: Assets/Scenes/DateLocations(Text)/Movies.unity
+    guid: da9f45d34850ce148b0cd2f678ca6d7f
+  - enabled: 1
+    path: Assets/Scenes/DateLocations(Text)/RollerRink.unity
+    guid: 19f7ca79dce962a4e9fd3774de606ac2
+  - enabled: 1
+    path: Assets/Scenes/DateLocations(Text)/GraveYard.unity
+    guid: 99c42436ae263af4999f2ca9634295b4
+  - enabled: 1
+    path: Assets/Scenes/MiniGames/BeachGame.unity
+    guid: e740c254d5948f9449a74e7d839d2d6a
+  - enabled: 1
+    path: Assets/Scenes/MiniGames/RecordGame.unity
+    guid: d538ac24b14e2a5459af7936944203c8
+  - enabled: 1
+    path: Assets/Scenes/DateLocations(Text)/BnD.unity
+    guid: ec94d89d0cc3f9840b32c3eebda061d9
+  - enabled: 1
+    path: Assets/Scenes/MiniGames/SongwritingGame.unity
+    guid: 19becd31a65694a478b0db3fe8c08ea1
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 19aaa9b82dca9bf4497da5dd68a3f331
+  - enabled: 1
+    path: Assets/Scenes/Break.unity
+    guid: 7d3934d3fe9a6464c9a8438777f9d3ab
+  m_configObjects: {}

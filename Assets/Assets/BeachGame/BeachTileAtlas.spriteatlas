@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BeachTileAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+    totalSpriteSurfaceArea: 10240
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -3857488645737722269, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: -1911496443663915163, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: 3991230391032742326, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: -6333360462916583906, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: 1415125471743060077, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: -4172053941475120883, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: -876767390795166567, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: 6488170716373625014, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: 5428866971198163724, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: -4826942998596660011, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: 2994854463976314293, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: -3099753393649625848, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: 3334793066269434744, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: 2888199148882785892, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: 8496668524566626852, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: 2701906401084837811, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: -6029924042562108697, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: -8588806939001530057, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: -5115560828900750664, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: 2870758308762244025, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: -7657677732595033875, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: -1313403153934762938, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: -4683164294495615870, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: -2267541328342288771, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: -6636736041015514530, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: 2898267819992403659, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: -1845518967531588519, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: 68024245649224583, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: 5513634483597913998, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: -9049438118383574711, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: -108828745968513948, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: 2150362330271064143, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: -9167692348024085241, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: 3462113783374167513, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: -3481045793971132540, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: -3128265590522314918, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: -5917508177580925753, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: 4211842443495853322, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: -5427684833593472447, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  - {fileID: -7178234140326348881, guid: ee07357b75b83fb4186e5965970b06ea, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - BeachTiles_6
+  - BeachTiles_7
+  - BeachTiles_4
+  - BeachTiles_5
+  - BeachTiles_2
+  - BeachTiles_3
+  - BeachTiles_0
+  - BeachTiles_1
+  - BeachTiles_8
+  - BeachTiles_9
+  - BeachTiles_28
+  - BeachTiles_29
+  - BeachTiles_24
+  - BeachTiles_25
+  - BeachTiles_39
+  - BeachTiles_26
+  - BeachTiles_38
+  - BeachTiles_27
+  - BeachTiles_37
+  - BeachTiles_20
+  - BeachTiles_36
+  - BeachTiles_21
+  - BeachTiles_35
+  - BeachTiles_22
+  - BeachTiles_34
+  - BeachTiles_23
+  - BeachTiles_33
+  - BeachTiles_32
+  - BeachTiles_31
+  - BeachTiles_30
+  - BeachTiles_15
+  - BeachTiles_14
+  - BeachTiles_17
+  - BeachTiles_16
+  - BeachTiles_11
+  - BeachTiles_10
+  - BeachTiles_13
+  - BeachTiles_12
+  - BeachTiles_19
+  - BeachTiles_18
+  m_RenderDataMap: {}
+  m_Tag: BeachTileAtlas
+  m_IsVariant: 0

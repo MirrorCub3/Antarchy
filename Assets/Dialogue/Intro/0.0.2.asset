@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7c48b59a0d47744d87c07fcf978e12d, type: 3}
+  m_Name: 0.0.2
+  m_EditorClassIdentifier: 
+  speaker: 1
+  sentences:
+  - "You\u2019re in your overpriced UpLyft vehicle."
+  - "It\u2019s the first time you\u2019re seeing your band in about four years, and
+    you\u2019re nervous as hell."
+  - And what's the special occasion? Your long awaited reunion tour of course!
+  - "Except it isn\u2019t really a tour because it\u2019s just the one show."
+  - ...and one location.
+  - "You\u2019re spending the whole week with them on the ol' Antarchy tour bus though
+    for old time\u2019s sake."
+  spriteList: []
+  placements: []
+  postTextPos: {fileID: 0}
+  postTextSprite: {fileID: 0}

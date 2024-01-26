@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54091d1a25acb564783bd9990b3334b1, type: 3}
+  m_Name: Option1.1
+  m_EditorClassIdentifier: 
+  day: 
+  choiceOption: 
+  responseType: 0
+  target: 2
+  targetType: 0
+  convoIndex: 1
+  pointDelta: 3
+  toScene: 
+  option: "\u201CYou did great, Petra. I only felt like throwing up a little bit.\u201D"
